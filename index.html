@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/883c9b2895.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="nav-section">
+        <div class="logo-div">
+            <div>
+                <a href="#"><i class="fa-solid fa-gamepad fa-2x"></i></a>
+
+            </div>
+            <div>
+                <span class="TFB">T f B
+                    <hr class="hr-logo"> <span class="games"> Games</span>
+                </span>
+            </div>
+        </div>
+
+        <div class="icons-div">
+            <div>
+                <a href="#" class="pop-up-message" data-title="Turn on Notifications"><i
+                        class="fa-regular fa-bell"></i></a>
+            </div>
+            <div><a href="#" class="pop-up-message" data-title="Like the Game"><i class="fa-solid fa-heart"></i></a>
+            </div>
+            <div><a href="#" class="pop-up-message" data-title="Subscribe"><i class="fa-solid fa-user"></i></a></div>
+            <div><a href="#" class="pop-up-message" data-title="Return to Homepage"><i
+                        class="fa-solid fa-house"></i></a></div>
+        </div>
+    </nav>
+    <hr>
+    <div class="main-head">
+        <div>
+            <h1 class="hangman-head">HANG<span class="man-span">MAN</span></h1>
+        </div>
+        <div class="find-text-div">
+            <p class="find-text">Find the hidden word!</p>
+        </div>
+    </div>
+
+
+
+    <section class="play-ground">
+        <details class="details-button">
+            <summary class="how-to-button">How to Play</summary>
+            <p class="exp-paragraph"> <br> Welcome, the aim of the game is to find a hidden word. <br><br>
+
+                Click the "start" button to start the game. Click the X button to exit the popup window. On the keyboard, press the letters you think can be found in the word. Correct letters will be displayed in the underlined area, and incorrect letters will be displayed in the upper right corner. <br><br>
+                
+                You have 9 wrong guesses to find the correct word. If you make 7 mistakes, a hint is waiting for you. Don't forget to evaluate the hint well. Try to find the hidden letters and catch the right word. <br><br> Good luck... </p>
+        
+        </details>
+
+                
+        <div class="game-section" id="game-section">
+            <svg height="250" width="200" class="table">
+                <!-- Rod -->
+                <line x1="60" y1="20" x2="140" y2="20" />
+                <line x1="140" y1="20" x2="140" y2="50" />
+                <line x1="60" y1="20" x2="60" y2="230" />
+                <line x1="20" y1="230" x2="100" y2="230" />
+
+
+                <!-- Head -->
+                <circle cx="140" cy="70" r="20" class="figure-part" />
+                <circle cx="133" cy="66" r="0.5" class="figure-part" />
+                <circle cx="148" cy="66" r="0.5" class="figure-part" />
+                <circle cx="140" cy="77" r="2" class="figure-part" />
+                <!-- Body -->
+                <line x1="140" y1="90" x2="140" y2="150" class="figure-part" />
+                <!-- Arms -->
+                <line x1="140" y1="120" x2="120" y2="100" class="figure-part" />
+                <line x1="140" y1="120" x2="160" y2="100" class="figure-part" />
+                <!-- Legs -->
+                <line x1="140" y1="150" x2="120" y2="180" class="figure-part" />
+                <line x1="140" y1="150" x2="160" y2="180" class="figure-part" />
+            </svg>
+            <div><button onclick="closeGame()" id="close-button" class="close-button"><i
+                        class="fa-solid fa-xmark fa-2x"></i></button></div>
+
+            <div class="wrong-letters-container">
+                <div id="wrong-letters"></div>
+            </div>
+            
+
+            <div class="word" id="correctword"></div>
+
+            <div class="hint" id="hint">
+                <div><button class="close-hint" id="close-hint" onclick="closeHint()">X</button></div>
+                <div class="hint-head"><p>I guess this time it was hard, <br> here's a <b>hint</b> for you :</p></div>
+                <div class="hint-word" id="hint-word"></div>
+            </div>
+
+            <div><button id="start-button" class="start-button" onclick="changeGameArea()">Start</button></div>
+        </div>
+
+        
+
+
+    </section>
+
+    <footer class="noti-footer">
+
+        <!-- Container for final message -->
+        <div class="popup-container" id="popup-container">
+            <div class="popup">
+                <h2 id="final-message"></h2>
+                <h3 id="final-message-reveal-word"></h3>
+                <button id="play-button">Play Again</button>
+            </div>
+        </div>
+
+        <!-- Notification -->
+        <div class="notification-container" id="notification-container">
+            <p>You have already entered this letter</p>
+        </div>
+    </footer><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="other-games-div"> OTHER GAMES</div><br><br>
+    <div class="other-games">
+
+        <div class="test-div"> 
+            <div class="test-div2"> 
+                <div><i class="fa-solid fa-hand-back-fist fa-2x"></i></div>
+                <div class="game-span"> Rock Paper Scissors</div>
+            </div>
+                <div class="other-games-part1"></div>
+        </div>
+        <div class="test-div"> 
+            <div class="test-div2"> 
+                <div><i class="fa-solid fa-chess fa-2x"></i></div>
+                <div class="game-span"> Chess</div>
+            </div>
+                <div class="other-games-part2"></div>
+        </div>
+        <div class="test-div"> 
+            <div class="test-div2"> 
+                <div class="fa-my-icons"><i class="fa-solid fa-truck-monster fa-2x"></i></div>
+                <div class="game-span"> Drive the Truck</div>
+            </div>
+                <div class="other-games-part3"></div>
+        </div>
+        <div class="test-div"> 
+            <div class="test-div2"> 
+                <div><i class="fa-solid fa-lock-open fa-2x"></i> </div>
+                <div class="game-span"> Decrypt Passwords</div>
+            </div>
+                <div class="other-games-part4"></div>
+        </div>
+        <div class="test-div"> 
+            <div class="test-div2"> 
+                <div><i class="fa-solid fa-earth-americas fa-2x"></i></div>
+                <div class="game-span"> Explore the World</div>
+            </div>
+                <div class="other-games-part5"></div>
+        </div>
+    </div>
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,1030 @@
+luck-şans      
+milk-süt      
+power-güç      
+rate-oran      
+rear-arka      
+rock-kaya      
+roof-çatı      
+rude-kaba      
+said-dedi      
+same-aynı      
+sense-his      
+ship-gemi      
+skin-deri      
+some-bazı      
+sound-ses      
+speed-hız      
+step-adım      
+stone-taş      
+sure-emin      
+tall-uzun      
+thing-şey      
+thin-ince      
+tool-alet      
+tree-ağaç      
+vase-vazo      
+veto-veto      
+voice-ses      
+west-batı      
+wood-ağaç      
+xmas-noel      
+zeal-şevk      
+fever-ateş      
+least-en az     
+life-yaşam      
+live-canli      
+loaf-bütün      
+loss-kayip      
+mind-akil      
+plum-eri̇k      
+prize-ödül      
+pump-pompa      
+purple-mor      
+push-itmek      
+rank-rütbe      
+that-o      
+this-o      
+vote-oy      
+wife-eş      
+work-iş      
+despite-aksine
+last-son      
+late-geç      
+left-sol      
+pure-saf      
+race-ırk      
+rail-ray      
+road-yol      
+role-rol      
+room-oda      
+root-kök      
+rose-gül      
+sand-kum      
+side-yan      
+snow-kar      
+three-üç      
+tone-ton      
+tube-tüp      
+very-çok      
+water-su      
+well-iyi      
+what-ne?      
+year-yıl      
+jeans-kot      
+lean-ince      
+lens-lens      
+long-uzun      
+rash-rütbe      
+ring-yüzük      
+ripe-olgun      
+risk-ri̇sk      
+rope-halat      
+rough-kaba      
+route-rota      
+rule-kural      
+score-skor      
+seven-yedi      
+short-kısa      
+size-boyut      
+sleep-uyku      
+song-şarkı      
+spot-nokta      
+summer-yaz      
+table-masa      
+take-almak      
+team-takım      
+term-dönem      
+them-onlar      
+then-sonra      
+they-onlar      
+tied-bağlı      
+time-zaman      
+train-tren      
+true-doğru      
+turn-dönüş      
+upper-üst      
+veil-duvak      
+vein-damar      
+vest-atlet      
+visa-vi̇ze      
+wall-duvar      
+warm-sıcak      
+week-hafta      
+wide-geniş      
+wild-vahşi      
+will-ıstek      
+wing-kanat      
+winter-kış      
+wire-kablo      
+yard-bahçe      
+young-genç      
+your-senin      
+zazoo-adam      
+zero-sıfır      
+zinc-çinko      
+zone-bölge      
+business-iş      
+buyer-alıcı      
+carpet-halı      
+castle-kale      
+groom-damat      
+happy-mutlu      
+intro-giriş      
+jimmy-levye      
+ladle-kepçe      
+lazy-tembel      
+leaf-yaprak      
+leak-akinti      
+legal-yasal      
+lesson-ders      
+liquid-sıvı      
+list-li̇ste      
+look-bakmak      
+love-sevgi̇      
+loyal-sadik      
+luxury-lüks      
+miss-kadın      
+near-yakın      
+panel-panel      
+peak-zi̇rve      
+pearl-inci̇      
+pedal-pedal      
+pity-acimak      
+pole-di̇rek      
+quick-çabuk      
+radar-radar      
+radio-radyo      
+rain-yağmur      
+rare-nadi̇r      
+read-okumak      
+ready-hazir      
+remedy-çare      
+remote-uzak      
+reward-ödül      
+ride-sürmek      
+rifle-tüfek      
+ring-çalmak      
+ruin-harabe      
+scale-ölçek      
+school-okul      
+seat-koltuk      
+sell-satmak      
+shall-olsun      
+shape-şekil      
+shop-dükkan      
+sight-görüş      
+sign-işaret      
+small-küçük      
+soil-toprak      
+south-güney      
+square-kare      
+star-yıldız      
+state-durum      
+stay-kalmak      
+steel-çelik      
+still-halen      
+stop-durmak      
+string-dizi      
+sugar-şeker      
+swim-yüzmek      
+tail-kuyruk      
+there-orada      
+thick-kalın      
+those-onlar      
+today-bugün      
+type-yazmak      
+value-değer      
+verb-fi̇i̇l      
+village-köy      
+wear-giymek      
+weight-kilo      
+were-olmak       
+white-beyaz      
+whole-bütün      
+wind-rüzgar      
+woman-kadın      
+word-kelime      
+worker-işçi      
+world-dünya      
+xerox-xerox      
+yellow-sarı      
+zebra-zebra      
+zilch-sıfır      
+budget-bütçe      
+bullet-mermi      
+captive-esir      
+cliff-uçurum      
+elephant-fil      
+exile-sürgün      
+fabric-kumaş      
+harbor-liman      
+jewelry-takı      
+knife-bıçak      
+large-geni̇ş      
+laugh-gülmek      
+lawful-yasal      
+lemon-li̇mon      
+less-daha az      
+liar-yalancı      
+lick-yalamak      
+lift-asansör      
+line-çi̇zgi̇      
+little-küçük      
+live-yaşamak      
+lorry-kamyon      
+lucky-şanslı      
+merry-mutlu      
+metal-metal      
+meter-ölçek      
+metre-metre      
+middle-orta      
+minus-eksi̇      
+mirror-ayna      
+nature-doğa      
+novel-roman      
+other-di̇ğer      
+pickle-turşu      
+pioneer-öncü      
+praise-övmek      
+price-fi̇yat      
+prince-prens      
+print-basmak      
+private-özel      
+product-ürün      
+puppet-kukla      
+purpose-amaç      
+racket-raket      
+region-bölge      
+result-sonuç      
+rich-zengi̇n      
+river-nehi̇r      
+roar-kükreme      
+rocket-roket      
+safe-güvenli      
+sharp-keskin      
+simple-basit      
+soft-yumuşak      
+soon-yakında      
+special-özel      
+store-dükkan      
+story-hikaye      
+straight-düz      
+street-sokak      
+strong-güçlü      
+subject-konu      
+such-örneğin      
+suffix-son ek     
+test-denemek      
+these-bunlar      
+third-üçüncü      
+thus-nitekim      
+tiny-küçücük      
+told-söyledi      
+total-toplam      
+truck-kamyon      
+urge-dürtme      
+usual-olağan      
+valley-vadi̇      
+view-görünüm      
+villa-vi̇lla      
+violin-keman      
+vomit-kusmak      
+walk-yürümek      
+want-istemek      
+wash-yıkamak      
+weather-hava      
+whether-eğer      
+whose-kimin?      
+wish-dilemek      
+write-yazmak      
+wrong-yanlış      
+xenon-ksenon      
+xray-röntgen      
+zakat-zekat       
+zany-palyaço      
+zombie-zombi      
+zumba-zumba       
+above-üstünde      
+accident-kaza      
+account-hesap      
+bright-parlak      
+building-bina      
+chill-üşütmek      
+descend-inmek      
+destiny-kader      
+emotion-duygu      
+glove-eldiven      
+grass-çimen ot     
+grind-öğütmek      
+grocer-bakkal      
+guard-korumak      
+health-sağlık      
+hello-merhaba      
+jacket-ceket      
+javelin-cirit      
+keen-keski̇n      
+know-bi̇lmek      
+label-eti̇ket      
+lawyer-avukat      
+leather-deri̇      
+legacy-mi̇ras      
+lung-akci̇ğer      
+mate-arkadaş      
+method-metot      
+mice-fareler      
+minimum-en az     
+mistake-hata      
+ocean-okyanus      
+pasta-makarna      
+pause-mola ara     
+penknife-çakı      
+pillow-yastik      
+priest-rahi̇p      
+prison-hapi̇s      
+process-işlem      
+pumpkin-kabak      
+rabbit-tavşan      
+race-yarışmak      
+referee-hakem      
+religion-di̇n      
+rice-pi̇ri̇nç      
+science-bilim      
+second-saniye      
+section-bölüm      
+seed-tohumlar      
+seem-görünmek      
+seen-görünmek      
+separate-ayrı      
+shoulder-omuz      
+signal-sinyal      
+silent-sessiz      
+soldier-asker      
+strange-garip      
+stream-akıntı      
+surface-yüzey      
+system-sistem      
+talk-konuşmak      
+tell-söylemek      
+their-onların      
+town-yerleşke      
+trade-ticaret      
+train-eğitmek      
+trip-yolculuk      
+trouble-sorun      
+unit-bi̇ri̇m      
+upon-üstünde      
+urgent-aci̇l      
+verdict-hüküm      
+victor-gali̇p      
+volume-haci̇m      
+wait-beklemek      
+watch-izlemek      
+where-nerede?      
+with-birlikte      
+within-içinde      
+would-istemek      
+zigzag-zigzag      
+zodiac-zodyak      
+zonked-sarhoş      
+about-hakkında      
+charge-saldırı      
+chickpea-nohut      
+emergency-acil      
+equal-eşit denk     
+faint-bayılmak      
+frugal-tutumlu      
+fugitive-kaçak      
+injured-yaralı      
+jacuzzi-jakuzi      
+kidney-böbrek      
+lead-önderli̇k      
+learn-öğrenmek      
+length-uzunluk      
+lighter-çakmak      
+like-hoşlanmak      
+lives-yaşamlar      
+lose-kaybetmek      
+maniac-manyak      
+message-mesaj      
+napkin-peçete      
+natural-doğal      
+path-küçük yol      
+peach-şeftali̇      
+perfume-parfüm      
+pistol-tabanca      
+powerful-güçlü      
+pray-dua etmek      
+present-sunmak      
+probable-olasi      
+quarter-çeyrek      
+queen-krali̇çe      
+reach-eri̇şmek      
+receipt-makbuz      
+repair-onarmak      
+revenue-geli̇r      
+rise-yükselmek      
+risky-ri̇skli̇      
+round-yuvarlak      
+save-kurtarmak      
+send-göndermek      
+sentence-cümle      
+several-birkaç      
+shoes-ayakkabı      
+shout-bağırmak      
+show-göstermek      
+similar-benzer      
+since-den beri      
+slowly-yavaşça      
+smell-koklamak      
+solution-çözüm      
+someone-birisi      
+speak-konuşmak      
+start-başlamak      
+stick-yapışmak      
+study-çalışmak      
+supply-malzeme      
+symbols-sembol      
+think-düşünmek      
+though-yine de      
+touch-dokunmak      
+triangle-üçgen      
+ugly-çi̇rki̇n      
+vain-gereksi̇z      
+velvet-kadi̇fe      
+vinegar-si̇rke      
+waves-dalgalar      
+western-batılı      
+wheel-tekerlek      
+when-ne zaman?      
+which-hangisi?      
+window-pencere      
+women-kadınlar      
+written-yazılı      
+xiphoid-kifoid      
+zealot-fanatik      
+zenith-zirve        
+zipper-fermuar      
+zippo-zippo         
+build-inşa etmek     
+captor-esir alan     
+defect-defo özür     
+generous-cömert      
+genius-deha dahi     
+glory-görkem şan     
+ketchup-ketçap      
+kitchen-mutfak      
+leave-terk etmek     
+lobster-istakoz      
+loose-bol bagsiz     
+memorandum-not      
+mercy-merhamet      
+neck-boyun ense     
+nonsense-saçma      
+obvious-aşi̇kar      
+opinion-düşünce      
+patrol-devri̇ye      
+prevent-korumak      
+pride-onur gurur     
+produce-üretmek      
+puppy-genç köpek     
+pyjamas-pi̇jama      
+quantity-miktar      
+quiz-küçük test      
+reduce-azaltmak      
+rent-ki̇ralamak      
+rest-di̇nlenmek      
+rumble-gürlemek      
+sometimes-bazen      
+spell-hecelemek      
+spread-yayılmak      
+spring-ilkbahar      
+statement-ifade      
+student-öğrenci      
+substance-madde      
+suddenly-aniden      
+thought-düşünce      
+travel-yolculuk      
+uncle-dayı amca     
+unhappy-mutsuz      
+vacation-tati̇l      
+vegetable-sebze      
+vertical-di̇key      
+viable-geçerli̇      
+visible-görünen      
+while-süresince      
+without-olmadan      
+yourself-kendin      
+zippy-hareketli      
+brown-kahverengi      
+chestnut-kestane      
+delusion-aldatma      
+effective-etkili      
+except-haricinde      
+expect-ümit etmek     
+favorable-olumlu      
+incorrect-yanlış      
+insane-deli kaçık     
+invent-icat etmek     
+kingdom-krallik      
+lampshade-abajur      
+lavatory-tuvalet      
+letter-mektupluk      
+liberal-li̇beral      
+listen-di̇nlemek      
+liver-karaci̇ğer      
+lovely-sevi̇mli̇      
+magnet-mıknatıs      
+merchant-tüccar      
+needle-iğne şi̇ş     
+neighbour-komşu      
+nightmare-kabus      
+obey-itaat etmek      
+occasion-vesi̇le      
+october-eki̇m ayı     
+operate-çalışmak      
+opposite-zıt ters     
+plastic-plasti̇k      
+pregnant-hami̇le      
+president-başkan      
+previous-önceki̇      
+promotion-terfi̇      
+proverb-atasözü      
+pulse-nabiz vuruş     
+queue-sıra kuyruk     
+railway-tren yolu     
+range-aralık alan     
+rapid-çabuk hızlı     
+really-gerçekten      
+reasonable-makul      
+reason-neden akil     
+recall-anımsamak      
+refill-doldurmak      
+refuse-reddetmek      
+relief-rahatlama      
+rescue-kurtarmak      
+roll-yuvarlanmak      
+rubbish-çöp saçma     
+sent-gönderilmiş      
+sister-kız kardeş     
+smile-gülümsemek      
+something-bir şey     
+southern-güneyli      
+space-uzay boşluk     
+surprise-sürpriz      
+teacher-öğretmen      
+under-altta alta     
+vanilla-vani̇lya      
+vision-görüş imge     
+vital-çok önemli̇     
+vowel-sesli̇ harf     
+vulgar-kaba ilkel     
+zealot-fanatik        
+zealous-gayretli      
+zucchini-kabak        
+accept-kabul etmek     
+broken-bozuk kırık     
+button-düğme buton     
+ceasefire-ateşkes      
+clash-anlaşmazlık      
+clerk-yazıcı katip     
+efficient-verimli      
+equipment-donanım      
+essay-rapor makale     
+feeble-cılız zayıf     
+fertile-bereketli      
+gravity-yer çekimi     
+image-görüntü imge     
+information-bilgi      
+inheritance-miras      
+joystick-joystick      
+kiss-öpücük öpmek     
+lend-ödünç vermek      
+letter-mektup harf     
+load-yük yüklemek      
+lock-ki̇li̇tlemek      
+loud-yüksek sesli      
+luggage-vali̇z yük     
+lunch-öğle yemeği̇     
+margin-marj katki     
+meantime-bu arada     
+military-askeri̇      
+minority-azinlik      
+movement-hareket      
+operator-operatör      
+optimist-iyi̇mser      
+parachute-paraşüt      
+peanut-yer fıstığı     
+peel-kabuk soymak     
+pesimist-kötümser      
+power-vekaletname      
+practical-prati̇k      
+preach-vaaz vermek     
+prejudice-önyargı      
+priority-önceli̇k      
+proportion-oranti      
+pyramid-pi̇rami̇t      
+radiator-radyatör      
+recognize-tanımak      
+reflect-yansıtmak      
+remind-anımsatmak      
+repay-geri̇ ödemek     
+sail-yelken açmak      
+serve-hizmet etmek     
+shown-gösterilmiş      
+through-arasından      
+together-birlikte      
+toward-karşı doğru     
+track-takip etmek      
+unite-bi̇rleşmek      
+unless-olmadıkça      
+valuable-değerli̇      
+voluntary-gönüllü      
+wonder-merak etmek     
+candid-içten samimi     
+catch-dikkat çekmek     
+census-nüfus sayımı     
+deportation-sürgün      
+fabricate-uydurmak      
+fence-çit parmaklık     
+grateful-minnettar      
+guest-misafir konuk     
+handsome-yakışıklı      
+headache-baş ağrısı     
+invade-istila etmek     
+invisible-görünmez      
+knowledge-bi̇lgi̇      
+leader-önder li̇der     
+level-düzey sevi̇ye     
+majority-çoğunluk      
+mental-zi̇hi̇nsel      
+mention-bahsetmek      
+needless-lüzumsuz      
+nephew-yeğen erkek     
+observation-gözlem      
+opportunity-fırsat      
+pants-don pantolon      
+persist-devam etmek     
+porcelain-porselen      
+porter-hamal kapici     
+poverty-faki̇rli̇k      
+practice-alıştırma      
+prepare-hazırlamak      
+privilege-imti̇yaz      
+prostitution-fuhuş      
+raincoat-yağmurluk      
+realize-fark etmek      
+repeat-tekrarlamak      
+research-araştirma      
+resist-karşi koymak     
+rest-geri̇ye kalan      
+return-geri̇ dönmek     
+revolution-devri̇m      
+settled-ayarlanmış      
+stand-ayakta durmak     
+stood-ayakta durmuş     
+thousands-binlerce      
+umbrella-şemsi̇ye      
+unfair-adaletsi̇z      
+useful-kullanışlı      
+vicious-kısır döngü     
+xerophyte-kserofit      
+xylophone-ksilofon      
+brother-erkek kardeş     
+charm-alımlı sevimli     
+delightful-hoş güzel     
+fulfill-tatmin etmek     
+impossible-imkansız      
+infer-sonuç çıkarmak     
+jukebox-müzik kutusu     
+knob-tokmak tutacak     
+league-bi̇rli̇k li̇g     
+link-bi̇rleşti̇rmek      
+local-bölgesel yerel     
+marmalade-marmelat      
+necessary-gerekli̇      
+neglect-ihmal etmek     
+neither-hi̇çbi̇ri̇      
+nervous-si̇ni̇rli̇      
+nest-yuva kuş yuvası    
+object-iti̇raz etmek     
+parade-resmi̇ geçi̇t     
+peril-büyük tehli̇ke     
+physical-fi̇zi̇ksel      
+prescription-reçete      
+primarily-ana olarak     
+prohibit-yasaklamak      
+purchase-satin almak     
+question-soru sormak     
+quota-kota kontenjan     
+reject-kabul etmemek     
+resign-isti̇fa etmek     
+respect-saygı duymak     
+respond-cevap vermek     
+responsible-sorumlu      
+restrict-sınırlamak      
+retire-emekli̇ olmak     
+should-zorunda olmak     
+sing-şarkı söylemek      
+stretch-genişletmek      
+understand-anlamak      
+visit-zi̇yaret etmek     
+volleyball-voleybol      
+zirconium-zirkonyum      
+zonal-kuşaklara ait      
+accompany-eşlik etmek     
+deduce-sonuç çıkarmak     
+genuine-hakiki gerçek     
+knee-di̇z di̇z çökmek    
+leadership-önderli̇k      
+liberty-serbest olmak     
+literature-edebi̇yat      
+litter-çöp daginiklik     
+manual-el ile yapilan    
+mere-sadece yalnızca     
+midnight-gece yarisi     
+nowadays-bugünlerde      
+nowhere-hi̇ç bi̇ryer     
+object-nesne obje amaç    
+observe-gözlem yapmak     
+origin-köken ori̇ji̇n     
+overtime-fazla mesai̇     
+pastime-hoş iyi̇ zaman    
+pension-emekli̇ maaşı     
+postage-posta ücreti̇     
+predict-tahmi̇n etmek     
+preparation-hazirlik      
+pressure-basınç baski     
+prisoner-mahkum esi̇r     
+problem-sorun problem     
+punish-cezalandirmak      
+purse-küçük el çantası    
+quote-aktarma söyleme     
+rather-epey çok deği̇l    
+recipe-yemek tari̇fi̇     
+recollect-hatirlamak      
+reliable-güveni̇li̇r      
+remove-uzaklaştırmak      
+republic-cumhuri̇yet      
+reputation-iti̇bar ün     
+require-gereksi̇nmek      
+ribbon-kurdela şeri̇t     
+royal-krali̇yete ai̇t     
+rush-çabuk davranmak      
+scientist-bilim adamı     
+temperature-sıcaklık      
+unfair-adi̇l olmayan     
+unhealthy-sağlıksız      
+vaporize-buharlaşmak      
+abuse-suistimal etmek      
+brush-fırça fırçalamak     
+desperately-umutsuzca      
+eastern-doğuya ait doğu    
+entertain-eğlendirmek      
+inform-bilgilendirmek      
+jackknife-sustalı çakı     
+knot-düğüm düğüm atmak    
+lamppost-sokak lambasi     
+light-ışık  açık hafi̇f    
+limit-hat sinir li̇mi̇t    
+living-yaşam bi̇çi̇mi̇     
+maid-kadin hi̇zmetçi̇     
+mattress-yatak sedi̇r     
+nuisance-sıkıntı dert     
+pedestrian-yaya gi̇den     
+playground-oyun sahasi     
+provocation-kışkırtma      
+punctual-tam zamaninda     
+puzzle-bulmaca problem     
+record-kayıt plak rekor    
+relieve-uzaklaştırmak      
+remittance-havale para     
+reply-yanıtlamak yanıt     
+unknown-bi̇li̇nmeyen      
+upward-yukarıya doğru     
+victim-kurban kazazede     
+washington-washington      
+demolition-yıkma tahrip     
+deprive-yoksun bırakmak     
+destitute-muhtaç yoksul     
+laboratory-laboratuvar      
+lettuce-salata kivircik     
+likely-büyük olasılıkla     
+lower-aşağıya indi̇rmek     
+occupation-meslek işgal     
+overdue-vadesi̇ geçmi̇ş     
+philosophy-fi̇zolofi̇      
+pincers-kerpeten kıskaç     
+reconciliation-uzlaşma      
+regular-düzenli̇ olağan     
+report-rapor rapor etmek    
+represent-temsi̇l etmek     
+respectable-saygıdeğer      
+ridiculous-gülünç saçma     
+suppose-tahmin yürütmek     
+syllables-ders programı     
+unlikely-az ihti̇malle     
+unlock-ki̇li̇di̇ açmak     
+volcano-volkan yanardağ     
+voyage-deni̇z yolculuğu     
+absence-bulunmama yokluk     
+lever-kaldiraç mani̇vala     
+lonely-yalniz ki̇msesi̇z     
+loyalty-sadakat baglilik     
+massive-çok büyük ve ağır   
+mathematics-matemati̇k      
+mess-kargaşa dağınıklık     
+necessity-gerekli̇li̇k      
+organize-organi̇ze etmek     
+overtake-geçmek sollamak     
+passive-pasi̇f eylemsi̇z     
+pillowcase-yastik kilifi     
+press-baski ütüleme basin    
+press-baski yapmak basmak    
+pretty-sevi̇mli̇ oldukça     
+punch-delmek yumruklamak     
+receive-almak karşılamak     
+recent-yakın zamanda olan    
+recommend-tavsi̇ye etmek     
+refrigerator-buzdolabi      
+refuge-refüj güvenli̇ yer    
+request-ri̇ca etmek ri̇ca    
+resume-yeni̇den başlamak     
+revenge-öç almak inti̇kam    
+victory-utku zafer yengi̇    
+absolute-mutlak salt kesin    
+dependable-güvenilir emin     
+licence-li̇sans ehliyet vb    
+memorable-unutulmayacak      
+never-hi̇çbi̇r zaman asla    
+nickname-takma isim lakap    
+petrol-steyşın benzi̇nci̇     
+practise-alıştırma yapmak     
+pupil-öğrenci̇ gözbebeği̇     
+quality-ni̇teli̇k kali̇te     
+quarrel-tartışmak atışmak     
+relative-akraba göreceli̇     
+relax-rahatlamak gevşemek     
+remarkable-di̇kkate değer     
+replacement-yerleşti̇rme      
+resent-hoşlanmamak kizmak     
+suggested-tavsiye edilmiş     
+unable-muktedi̇r olmamak     
+underclothes-iç çamaşırı     
+unemployment-işsi̇zli̇k      
+union-sendi̇ka bi̇rleşme     
+university-üni̇versi̇te      
+upstairs-üst kat yukarısı    
+visitor-zi̇yaretçi̇ konuk     
+abandon-terk etmek bırakmak    
+access-giriş erişim erişmek    
+facilitate-kolaylaştırmak      
+knock-vurmak kapıya vurmak    
+language-di̇l  yabancı dil vb  
+management-yöneti̇m idare     
+manufacture -üretmek fab vb    
+mill-deği̇rmen imalathane     
+mimic-takli̇t etmek birini    
+minor-önemsi̇z ufak mi̇nör    
+narrate-anlatmak söylemek     
+network-şebeke çalişma ağı    
+notorious-kötü ünlü kötü ün   
+permanent-devamli sürekli̇     
+remark-beli̇rtmek açıklama     
+representative-temsi̇lci̇      
+reside-oturmak ikamet etmek    
+themselves-onların kendisi     
+uniform-üni̇forma tek ti̇p    
+vulnerable-zayıf korumasız     
+zoological-hayvan bilimsel     
+abroad-yurt dışında yurtdışı    
+feasible-mümkün yapılabilir     
+library-ki̇taplik kütüphane     
+locate-kurmak yerleşti̇rmek     
+manager-yöneti̇ci̇ menajer     
+meanwhile-bu arada ayni anda   
+miss-özlemek kaçırmak kayip    
+need-gereksi̇ni̇m ihti̇yaç     
+nurse-hemşi̇re hasta bakıcı    
+plumber-musluk tami̇rci̇si̇     
+quiet-sessi̇z saki̇n huzurlu    
+railing-bahce parmaklıkları     
+razor-ustura traş maki̇nesi̇    
+regulation-yönetmeli̇k yasa     
+relation-ili̇şki̇ akrabalik     
+restaurant-restoran lokanta     
+vacant-boş açık bir iş yerinde  
+vacuum-elektri̇k süpürgesi̇     
+various-deği̇şi̇k çeşi̇tli̇     
+vulture-akbaba hari̇s ki̇mse    
+lecture-ders konferans vermek    
+magnificent-azamet ihti̇şam     
+mine-beni̇m maden ocaği mayın   
+negotiate-görüşmek müzakere     
+number-sayı numaralandirmak     
+paste-beyaz tutkal macun hamur   
+peasant-çi̇ftçi̇ köylü kesi̇m    
+prefer-yeğlemek terci̇h etmek    
+remember-unutmamak anımsamak     
+right-hak doğru hakli sağ taraf  
+rubber-lasti̇k kauçuk si̇lgi̇    
+unfavourable-hoşa gi̇tmeyen     
+vocabulary-keli̇me dağarcığı     
+ability-hüner beceri kabiliyet    
+absolutely-mutlaka kesinlikle     
+inhale-nefes almak içine çekmek   
+minute -daki̇ka çok küçük zabit   
+obtain-tedari̇k etmek sağlamak    
+operation-operasyon ameli̇yat     
+roast-rosto fırında pi̇şi̇rmek    
+xenophobia-yabancı düşmanlığı     
+decline-reddetmek geri çevirmek    
+mind-bi̇ri̇ne bakmak dert etmek   
+packed-kalabalık bi̇r sürü insan   
+precious-kiymetli̇ çok sevi̇len    
+publicity-ilan reklam yayımlama    
+regret-üzgün olmak pi̇şman olmak   
+replace-yeni̇den yerleşti̇rmek     
+resident-bölgede yaşayan oturan    
+unconscious-bi̇li̇nçsi̇zli̇k      
+unload-boşaltmak yük boşaltmak    
+missile-füze fırlatılan ci̇si̇m    
+presence-varlık bir yerde varlığı   
+preserve-korumak konserve yapmak    
+quite-hemen hemen yaklaşık olarak   
+reconcile-uzlaşma anlaşma yapmak    
+retail-perakende perakende satış    
+nasty-pi̇s kötü kokulu hoş olmayan  
+native-yerli̇ her native language   
+nevertheless-buna rağmen hala ama   
+period-çağ devi̇r peri̇od adet hali  
+primary-önceleri̇ eski̇den ana baş   
+qualified-ehli̇yetli̇ kali̇fi̇ye     
+relationship-ili̇şki̇ ileti̇şi̇m     
+roundabout-dolambaçlı dolayli ada    
+until-kadar belli bir zamana kadar  
+variety-fark çeşi̇tli̇li̇k çeşi̇t    
+massacre-katli̇am katli̇am yapmak    
+reception-resmi̇ davet resepsi̇yon    
+refugee-tehli̇keden kaçan kazazede    
+release-serbest bırakmak gevşetmek    
+major-büyük önemli̇ bi̇nbaşi orduda   
+occupy-işgal etmek oturmak kaplamak    
+referendum-referandum halk oylamasi    
+ruler-kural koyucu yöneti̇ci̇ cetvel   
+upset-endi̇şelendi̇rmek devi̇rmek     
+violent-kaba kuvvet kullanan şi̇ddet   
+kidnap-zorla kaçırmak insan hayvan vb  
+primitive-ilkel basi̇t modasi geçmi̇ş   
+regard-di̇kkat düşünce bakmak inanmak   
+relate-anlatmak nakletmek formal tell   
+remain-geri̇ye kalmak yeri̇nde durmak   
+reserve-rezerv rezervasyon yaptırmak    
+vehicle-taşıt aracı  kamyon tır araba vb
+knight-si̇lahşör şovalye satrançta at   
+laundry-yıkanacak çamaşır çamaşırhane    
+minister-bakan büyükelçi̇ yardımcısı    
+overwork-fazla çalışmak aşırı çalışmak   
+precisely-kesi̇nli̇kle tam manasıyla    
+pretend-gi̇bi̇ gözükmek takli̇t yapmak   
+misunderstand-yanlış anlamak anlamak     
+relevant-bağıntılı konuyla ili̇şki̇li̇    
+reverse-ters arka reverse gear  geri vites
+launch-bi̇rşeye başlamak roket firlatmak   
+present-burada mevcut şi̇mdi̇ki̇ armağan   
+retaliation-inti̇kam tepki̇ mi̇si̇lleme    
+revise-tekrar gözden geçi̇ri̇p düzeltmek   
+lease-beli̇rli̇ bi̇r zaman içi̇n ki̇ralama  
+platform-platform yüksekçe yer kürsü peron  
+provoke-kışkırtmak kızdırmaya neden olmak   
+raise-yükseltmek zam yapmak yeti̇şti̇rmek   
+venture-macera ri̇sk genelde iş hayatında 
+otherwise-başka türlü yoksa aksi̇ takti̇rde  
+picket-grev gözcüsü fabri̇ka önünde bekleme  
+pinch-çi̇mdi̇klemek sıkıştırmak kapıya vb   
+restore-geri̇ verme yeni̇den kullanıma açma  
+naughty-yaramaz naughty child  yaramaz çocuk 
+principal-en önemli̇ prensi̇p ana para borçta 
+undergo-katlanmak çekmek bi̇r olayın olması  
+recover-iyi̇leşmek kaybedilen bir şeyi bulmak  
+mission-özel bi̇r görev içi̇n yolculuk mi̇syon 
+patron-destekleyi̇ci̇ ki̇şi̇ devamli müşteri̇   
+pullover-kazak arabayi durdurmak kenara çekmek  
+underline-yazının keli̇meni̇n altını çi̇zmek   
+urban-şehi̇rsel kente ai̇t urban life  şehirsel
+landlady-evsahi̇bi̇ bayan evi̇ni̇ ki̇raya veren  
+remit-affetmek bağışlamak postayla para yollama  
+accomplish-başarıyla tamamlamak sonuçlandırmak    
+magazine-si̇lah deposu magazi̇n şarjör si̇lahin  
+recession-duraklama geri̇leme ekonomi̇de durgunluk   
+runaway-kaçak kontrol dışı runaway ıncrease ın prices
+promote-ilerleme terfi̇ etme tanıtım ürün vbsatış için
+prosecute-taki̇p etmek kavuşturmak dava açmak suçlamak 
+maintain-bakim onarim eski̇ hali̇nde koruma destekleme 
+victimize-kurban etmek grubun suçunu bir kişiye yüklemek
+nominate-aday göstermek başkan vb atamak görevlendi̇rme 
+propeller-ileri̇ye yürüten şey vapur veya uçak pervanesi̇
+reluctant-isteksi̇z ve bundan dolayi işi̇ yapmayi ağırdan
+liquidate-tasfi̇ye etmek öldürme kurtulmak başından atmak 
+register-kütük si̇ci̇l kayıt register posttaahhütlü mektup 
+participate-başkalarıyla bi̇rli̇kte çalişma oynama katılma  
+refreshments-sandovi̇ç tost içecek gar istasyon gibi yerlerde
